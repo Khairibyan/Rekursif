@@ -4,7 +4,7 @@ Pertanyaan Percobaan 1
 faktorialIteratif() sama? Jelaskan perbedaan alur jalannya program pada penggunaan
 fungsi rekursif dan fungsi iteratif!
 
-Jawaban :
+Jawaban :       
 1. fungsi yang memanggil dirinya sendiri untuk menyelesaikan suatu masalah. Pemanggilan tersebut akan terus dilakukan sampai mencapai kondisi tertentu yang disebut base case. Base case ini berfungsi sebagai batas agar proses tidak berjalan terus-menerus dan menyebabkan kesalahan pada program.
 
 2. hasil yang diberikan oleh fungsi faktorialRekursif() dan faktorialIteratif() adalah sama, yaitu menghasilkan nilai faktorial yang benar untuk bilangan yang diberikan.
