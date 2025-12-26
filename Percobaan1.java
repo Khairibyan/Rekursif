@@ -21,5 +21,6 @@ public static void main (String[] args) {
     System.out.println(faktorialRekursif(5));
     System.out.println(faktoriallteratif(5));
     
+
     }
 }
