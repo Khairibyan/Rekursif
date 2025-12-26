@@ -9,4 +9,4 @@ Jawaban :
 
 2. hasil yang diberikan oleh fungsi faktorialRekursif() dan faktorialIteratif() adalah sama, yaitu menghasilkan nilai faktorial yang benar untuk bilangan yang diberikan.
 
-Perbedaannya terletak pada alur jalannya program. Fungsi rekursif bekerja dengan cara memanggil dirinya sendiri secara berulang hingga mencapai base case, kemudian hasilnya dikembalikan satu per satu. Proses ini menggunakan memori stack. Sedangkan fungsi iteratif menggunakan perulangan (loop) untuk menghitung faktorial tanpa pemanggilan fungsi berulang.
+Perbedaannya terletak pada alur jalannya program. Fungsi rekursif bekerja dengan cara memanggil dirinya sendiri secara berulang hingga mencapai base case, kemudian hasilnya dikembalikan satu per satu. Proses ini menggunakan memori stack. Sedangkan fungsi iteratif menggunakan perulangan (loop) untuk menghitung faktorial tanpa pemanggilan fungsi berulang. 
